@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/flighter/static/css/main.15364dbc.css",
-    "main.js": "/flighter/static/js/main.af65b04a.js",
+    "main.js": "/flighter/static/js/main.5a3ce4fb.js",
+    "static/media/bg-beach-main.jpg": "/flighter/static/media/bg-beach-main.cb2396566e621ae5f5d0.jpg",
     "static/media/AnandaBlack.ttf": "/flighter/static/media/AnandaBlack.93e9d2c9e1e0c7b13803.ttf",
+    "static/media/bg-japan-normal.jpg": "/flighter/static/media/bg-japan-normal.d3d97f08891cb0fdb679.jpg",
+    "static/media/bg-santorini-normal.jpg": "/flighter/static/media/bg-santorini-normal.ae6b0a61ae4b31801ca0.jpg",
     "static/media/LINESeedKR-Rg.woff2": "/flighter/static/media/LINESeedKR-Rg.ebf20fbf55119848bf8d.woff2",
     "static/media/LINESeedKR-Bd.woff2": "/flighter/static/media/LINESeedKR-Bd.866a16ff8afadafcbd0c.woff2",
     "static/media/LINESeedKR-Th.woff2": "/flighter/static/media/LINESeedKR-Th.a399ab4d4761d13111c4.woff2",
@@ -12,10 +15,10 @@
     "static/media/slick.woff": "/flighter/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/flighter/index.html",
     "main.15364dbc.css.map": "/flighter/static/css/main.15364dbc.css.map",
-    "main.af65b04a.js.map": "/flighter/static/js/main.af65b04a.js.map"
+    "main.5a3ce4fb.js.map": "/flighter/static/js/main.5a3ce4fb.js.map"
   },
   "entrypoints": [
     "static/css/main.15364dbc.css",
-    "static/js/main.af65b04a.js"
+    "static/js/main.5a3ce4fb.js"
   ]
 }
